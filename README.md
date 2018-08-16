@@ -24,7 +24,7 @@ Along with https://jakevdp.github.io/PythonDataScienceHandbook/index.html --> Py
 
 - Go to your working directory and clone this repository
 - Use the existing `environment.yaml` to create your environment
-	- `conda create -f environment.yaml` 
+	- `conda env create -f environment.yaml` 
     - This command will install all the dependencies required for your project
 
 ### Setting up virtual environment from scratch 
