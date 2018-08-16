@@ -1,0 +1,5 @@
+name: environment
+channels:
+  - defaults
+prefix: /Users/grandhis/anaconda3/envs/environment
+
