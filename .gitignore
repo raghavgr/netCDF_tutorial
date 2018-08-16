@@ -64,3 +64,4 @@ target/
 
 # Large Data files:
 data/large_files
+input_files/large_files
